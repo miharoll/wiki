@@ -41,7 +41,7 @@
     "videoinsert": "Vstavi video",
     "videolinktitle": "Vnesi video povezavo za vgraditev:",
     "videonotsupported": "Ta URL ne deluje ali ni podprt!",
-    "videosuccess": "Video koda je vila vstavljena.",
+    "videosuccess": "Video koda je bila vstavljena.",
     "videosupportedtitle": "Sledeči so podprti:",
     "videotitle": "Vstavi video"
   },
@@ -52,14 +52,14 @@
     "commit": "Zavezati",
     "comparewith": "Primerjaj z...",
     "view": "Pogled",
-    "reverttoversion": "Vrni na verzoijo",
-    "sidebyside": "Pogled stran-ob-strani"
+    "reverttoversion": "Vrni na verzijo",
+    "sidebyside": "Poglej stran-ob-strani"
   },
   "modal": {
     "abort": "Prekini",
     "anchorerror": "Napaka pri kopiranju iz odložišča. URL povezavo kopiraj ročno.",
     "anchorsuccess": "URL uspešno kopiran v odložišče.",
-    "anchortitle": "Kopiraj povezavo v to cekcijo",
+    "anchortitle": "Kopiraj povezavo v to sekcijo",
     "copyclipboard": "Kopiraj v odložišče",
     "create": "Ustvari",
     "createpageinvalid": "Ta pot do strani ne obstaja!",
@@ -77,7 +77,7 @@
     "delete": "Izbriši",
     "deletefiletitle": "Izbriši?",
     "deletefilewarn": "Ste prepričani da želite izbrisati",
-    "deletepagewarning": "Ste prepričani da želite izbrisatito stran? To dejanje ne more biti razveljavljeno!",
+    "deletepagewarning": "Ste prepričani da želite izbrisati to stran? To dejanje ne more biti razveljavljeno!",
     "deletepagetitle": "Izbriši to stran?",
     "deleteusertitle": "Izbriši uporabniški račun?",
     "deleteuserwarning": "Ste prepričani da želite izbrisati ta uporabniški račun? To dejanje nemore biti razveljevljeno!",
