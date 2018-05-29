@@ -2,7 +2,7 @@
   "editor": {
     "codeblockinsert": "Vnesi kodni blok",
     "codeblocklanguage": "Jezik",
-    "codeblockloading": "Loading code syntax for {{name}}",
+    "codeblockloading": "Nalaganje kodne sintakse za {{name}}",
     "codeblockloadingerror": "Error: Unable to load language syntax.",
     "codeblocksuccess": "Your code block has been inserted.",
     "codeblocktitle": "Insert Code Block",
