@@ -1,51 +1,51 @@
 {
   "wiki": "Wiki",
   "header": {
-    "overview": "Overview",
-    "createdoc": "Create New Document"
+    "overview": "Pregled",
+    "createdoc": "Ustvari nov dokument"
   },
   "footer": {
     "poweredby": "Powered by",
-    "home": "Home",
-    "top": "Return to top"
+    "home": "Domov",
+    "top": "Vrni se na vrh"
   },
   "sidebar": {
     "nav": "NAV",
-    "navigation": "Navigation",
-    "pagecontents": "Page Contents",
-    "pastversions": "Past Versions"
+    "navigation": "Navigacija",
+    "pagecontents": "Vsebina strani",
+    "pastversions": "Pretekle verzije"
   },
   "nav": {
-    "account": "Account",
-    "allpages": "All Pages",
-    "create": "Create",
-    "discard": "Discard",
-    "edit": "Edit",
-    "history": "History",
-    "login": "Login",
-    "logout": "Logout",
-    "move": "Move",
-    "myprofile": "My Profile",
-    "normalview": "Normal View",
-    "root": "Home",
-    "savechanges": "Save Changes",
-    "savedocument": "Save Document",
-    "settings": "Settings",
-    "source": "Source",
-    "stats": "Stats",
-    "sysinfo": "System Info",
-    "syssettings": "System Settings",
-    "theme": "Color Theme",
-    "users": "Users",
-    "viewlatest": "View Latest"
+    "account": "Račun",
+    "allpages": "Vse strani",
+    "create": "Ustvari",
+    "discard": "Zavrzi",
+    "edit": "Uredi",
+    "history": "Zgodovina",
+    "login": "Prijava",
+    "logout": "Odjava",
+    "move": "Premakni",
+    "myprofile": "Moj profil",
+    "normalview": "Normalen pogled",
+    "root": "Domov",
+    "savechanges": "Shrani spremembe",
+    "savedocument": "Shrani dokument",
+    "settings": "Nastavitve",
+    "source": "Viri",
+    "stats": "Stanje",
+    "sysinfo": "Informacije o sistemu",
+    "syssettings": "Sistemske nastavitve",
+    "theme": "Barvna tema",
+    "users": "Uporabniki",
+    "viewlatest": "Poglej zadnje"
   },
   "welcome": {
-    "title": "Welcome to your wiki!",
-    "subtitle": "Let's get started and create the home page.",
-    "createhome": "Create Home Page"
+    "title": "Dobrodošvi v vaš wiki!",
+    "subtitle": "Začnimo in naredimo vašo domačo stran.",
+    "createhome": "Ustvari domačo stran"
   },
   "loading": {
-    "source": "Loading source...",
-    "editor": "Loading editor..."
+    "source": "Nalaganje virov...",
+    "editor": "Nalaganje urejevalnika..."
   }
 }
